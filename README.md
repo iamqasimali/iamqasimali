@@ -2,7 +2,8 @@
 - 👀 I’m interested in Blockchain, Nfts, Metaverse
 - 🌱 I’m currently learning Ruby on Rails Web FrameWork
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me by the following email: iamqasimalizahid@gmail.com
+
 
 <!---
 iamqasimali/iamqasimali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
