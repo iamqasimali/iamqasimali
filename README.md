@@ -1,18 +1,42 @@
 
-<div id="" align="center">
-<!--   <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/> -->
+<div>
+    <img src="Blue and Pink Professional Business Strategy Presentation.svg" height="50%" width="100%" /> 
 </div>
-<h1 align="center">Hi 👋, I'm Qasim Ali Zahid</h1>
-<h3 align="center">A full stack developer from Lahore, Pakistan</h3>
-<h4 align="center">Hi my name is Qasim Ali Zahid a Full Stack web developer based out of Lahore Pakistan. I've worked on web development for more than 5+ years.
-Experienced Ruby on Rails Developer with a demonstrated history of working in the information technology and services industry.</h4>
-
+<h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="40px"/></h3>
 <hr>
-
 
 <!-- TECHS -->
 
-<h2 align="center">Skills</h2>
+<div id="header" align="center">  
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+  <a href="https://www.linkedin.com/in/qasim-zahid-a69326a7/" >
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <a href="https://shafqat.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge"/>
+  </a> -->
+  <img src="https://komarev.com/ghpvc/?username=MrShafqatNadeem&style=for-the-badge&color=blue" alt=""/>
+ 
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Greetings+I'm+Qasim+Ali+Zahid+...;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Web+Developer+...;%F0%9F%92%BB++Ruby+on+Rails+%2B+React+...;%F0%9F%8E%89+Welcome+to+my+profile" alt="Typing SVG" /></a>   
+  
+</div>
+
+<h2> 👨‍💻 Know Me </h2>
+
+- 🔭 I’m currently working on Web Applications
+- 🌱 Learning Backend Development (Python - Node - Data Structures and Algorithms)
+- 💬 Interested in open source projects collaboration and app Security.
+- 😄 Pronouns: He/Him
+- ⚡  Motivated ✨
+- 👯 I’m looking to collaborate on fintech & block-chain technology web application projects
+- 💬 Ask me about Full-stack Web Applications
+- 📫 How to reach me: iamqasimalizahid@gmail.com
+- ⚡ Fun fact: The first computer “bug” was an actual real-life bug.
+
+<br/>
+
+<h2> 🛠️ Languages and Tools </h2>
 
 <div align="center">
                 <br>
