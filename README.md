@@ -88,7 +88,7 @@
 				<h3 align="center">Agency Pics</h3>
 				<div align="center">  
 					<a href='https://www.agency.pics/' target="_blank">
-						<img src="Untitled design (4).png" alt="project 1" height="100%" />
+						<img src="1.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -118,10 +118,10 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">Diamond Chauffeur Limousine</h3>
 				<div align="center" >  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+						<img src="2.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -139,10 +139,10 @@
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Project 3</h3>
+                <h3 align="center">ACS Sameday</h3>
                 <div align="center" >  
                     <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                        <img src="3.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -159,10 +159,10 @@
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Project 4</h3>
+                <h3 align="center">Intime GDT</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                        <img src="4.png" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
