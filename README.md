@@ -74,7 +74,16 @@
 </div>
 
 <br>
-<hr>
+
+<!-- STATS -->
+<div align="center" margin="100px 0 0 0">
+
+<h2> 🔥 Stats</h2>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamqasimali&show_icons=true&locale=en&layout=compact" alt="iamqasimali" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamqasimali&show_icons=true&locale=en" alt="iamqasimali" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamqasimali&" alt="iamqasimali" /></p>
+</div>
+
 
 <!-- PROJECTS -->
 
@@ -172,7 +181,6 @@
 <br />
 <hr>
 
-
 <!-- SOCIALS -->
 
 <h2 align="center">Contact Me</h2>
@@ -183,18 +191,4 @@
 </p>
 
 <hr>
-
-
-<!-- STATS -->
-<div align="center" margin="100px 0 0 0">
-
-<h2 align="center">Stats</h2>
-<h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamqasimali&show_icons=true&locale=en&layout=compact" alt="iamqasimali" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamqasimali&show_icons=true&locale=en" alt="iamqasimali" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamqasimali&" alt="iamqasimali" /></p>
-</div>
 <br>
