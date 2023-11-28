@@ -42,7 +42,7 @@
                 <br>
                     <div align="center" >  
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-			                <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+		      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="JS" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="75" height="75" /> 
@@ -79,9 +79,9 @@
 <div align="center" margin="100px 0 0 0">
 
 <h2> 🔥 Stats</h2>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamqasimali&show_icons=true&locale=en&layout=compact" alt="iamqasimali" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamqasimali&show_icons=true&locale=en" alt="iamqasimali" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamqasimali&" alt="iamqasimali" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamqasimali&show_icons=true&theme=dark&locale=en&layout=compact" alt="iamqasimali" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamqasimali&show_icons=true&theme=dark&locale=en" alt="iamqasimali" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamqasimali&theme=dark" alt="iamqasimali" /></p>
 </div>
 
 
