@@ -196,3 +196,19 @@
 
 <hr>
 <br>
+
+
+<h2> 😆 Fun </h2>
+<br/>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23111&textColor=%23fff&aColor=%23ccc&borderColor=%23ccc" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Thank+You!!;Have+a+wonderful+day" /><br/><br/><br/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="60" /> with <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="50" /> by [Qasim Ali Zahid]
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="Girl in a jacket" width="100" height="100">
+</div>
