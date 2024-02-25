@@ -188,6 +188,8 @@
 <!-- SOCIALS -->
 
 <h2 align="center">Contact Me</h2>
+<p align="center"><a href="https://ko-fi.com/Z8Z0UWCMH" rel="nofollow" target="blank" ><img src="https://camo.githubusercontent.com/ce32b4940b9ebf361cfd346ba0582815846406854cd2f701c11a85cb21eaa939/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667" alt="ko-fi" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;"></a></p>
+
 <p align="center">
 	&nbsp&nbsp&nbsp
 	<a href="https://twitter.com/QasimA6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
