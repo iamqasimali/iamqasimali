@@ -124,8 +124,11 @@
 			</td>
 		<tr>
 			<td width="100%">
-				<h3 align="">Agency Pics</h3>
-				<div align="">  
+				<h3>Agency Pics</h3>
+        <p>
+        Agency.pics is a platform designed for connecting models, influencers, and creatives. It provides a space for users to showcase their portfolios and network with industry professionals. The site aims to streamline the process of finding and collaborating with talent for various creative projects.
+        </p>
+				<div>  
 					<a href='https://www.agency.pics/' target="_blank">
 						<img src="1.png" alt="project 1" height="100%" />
 					</a>
