@@ -89,7 +89,7 @@
         <p>
         The project is a comprehensive badminton tournament organization and management system featuring three distinct portals: Player, Tournament Management, and Admin. Built using the MERN stack, this system leverages React for a dynamic front-end experience, Express.js for the backend API, and PostgreSQL for robust data management.
         </p>
-				<div align="">  
+				<div>  
 					<a href='https://www.agency.pics/' target="_blank">
 						<img src="badminton.png" alt="project 1" height="100%" />
 					</a>
@@ -103,14 +103,14 @@
               					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 					   </a>
 					</p>
-					<p><strong>React, Express.js, Nodejs, Stripe Payments</strong></p>
+					<p><strong>Next.js, React, Express.js, Nodejs, AWS S3, Postgresql</strong></p>
           <p>
           <strong>
           Frontend
           </strong>
           </p>
           <p>
-             Javascript, React, JSX, TailwindCSS, useState, useEffect, useRef, Axios, Chart.js, Cropperjs,  Flatpickr, react-google-recaptcha, react-image-gallery, react-infinite-scroll-component, react-loader-spinner, react-loading-skeleton, react-phone-number-input, Axios
+             Next.js, Javascript, React, JSX, TailwindCSS, useState, useEffect, useRef, Axios, Chart.js, Cropperjs,  Flatpickr, react-google-recaptcha, react-image-gallery, react-infinite-scroll-component, react-loader-spinner, react-loading-skeleton, react-phone-number-input, Axios, react-query, formik
           </p>
           <p>
             <strong>
@@ -118,7 +118,7 @@
             </strong>
           </p>
           <p>
-            Bcryptjs, cookie-parser, cors, dotenv, express, jsonwebtoken, sequelize, uuid, Heroku, AWS S3
+            Bcryptjs, cookie-parser, joi, cors, dotenv, express, jsonwebtoken, sequelize, uuid, Heroku, AWS S3, Postgresql
           </p>
 				</div>
 			</td>
@@ -130,7 +130,7 @@
         </p>
 				<div>  
 					<a href='https://www.agency.pics/' target="_blank">
-						<img src="1.png" alt="project 1" height="100%" />
+						<img src="agencyPic.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -142,7 +142,7 @@
               					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 					   </a>
 					</p>
-					<p><strong>Ruby on Rails, React, Sendgrid, Stripe Payments</strong></p>
+					<p><strong>Ruby on Rails, React, Sendgrid, Stripe Payments, Heroku, AWS S3</strong></p>
           <p>
           <strong>
           Frontend
@@ -150,6 +150,86 @@
           </p>
           <p>
             React, SCSS, Bootstrap, Javascript, useState, useEffect, useRef, Axios, Chart.js, Cropperjs, Flatpickr, react-share, react-google-recaptcha, react-image-gallery, react-infinite-scroll-component, react-loader-spinner, react-loading-skeleton, react-phone-number-input, react_ujs
+          </p>
+          <p>
+            <strong>
+              Backend
+            </strong>
+          </p>
+          <p>
+            Stripe Checkout, Stripe Customers, Stripe Products, Devise, Pendit, Pg-search, Simple_form, Omniauth-facebook, Gibbon,  Faker, Sendgrid-ruby, Sentry-rails, Sidekiq, Activejobs, ActiveStorage, Kaminari, Heroku, AWS S3
+          </p>
+				</div>
+			</td>
+   </tr>
+   <tr>
+			<td width="100%">
+				<h3>IntimeGDT</h3>
+        <p>
+          The IntimeGDT provides access to a wide variety of datasets, allowing users to discover, evaluate, and access data in real-time. It offers data products from multiple providers, which can be seamlessly integrated into users' data ecosystems for various use cases, including analytics, machine learning, and business intelligence. The marketplace includes datasets across different industries and domains, helping organizations make data-driven decisions.
+        </p>
+				<div>  
+					<a href='https://www.agency.pics/' target="_blank">
+						<img src="intimeGDT.png" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+					   <a href="https://github.com/iamqasimali/agency_pics" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					   </a>  
+					   <a href="https://www.agency.pics/" target="_blank">
+              					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+					   </a>
+					</p>
+					<p><strong>Next.js, React, TailwindCSS, Ruby on Rails, Sendgrid, Stripe Payments</strong></p>
+          <p>
+          <strong>
+          Frontend
+          </strong>
+          </p>
+          <p>
+            React, SCSS, Bootstrap, Javascript, useState, useEffect, useRef, Axios, Chart.js, Cropperjs, Flatpickr, react-share, react-google-recaptcha, react-image-gallery, react-infinite-scroll-component, react-loader-spinner, react-loading-skeleton, react-phone-number-input, react_ujs, formik, react-query
+          </p>
+          <p>
+            <strong>
+              Backend
+            </strong>
+          </p>
+          <p>
+            Stripe Checkout, Stripe Customers, Stripe Products, Devise, Pendit, Pg-search, Simple_form, Omniauth-facebook, Gibbon,  Faker, Sendgrid-ruby, Sentry-rails, Sidekiq, Activejobs, ActiveStorage, Kaminari, Heroku, AWS S3
+          </p>
+				</div>
+			</td>
+   </tr>
+    <tr>
+			<td width="100%">
+				<h3>CarShare</h3>
+        <p>
+        Carshare is a model of car rental where people rent cars for short periods of time, often by the hour. It differs from traditional car rental in that the owners of the cars are often private individuals themselves, and the car sharing facilitator is generally distinct from the car owner. Car sharing is part of a larger trend of shared mobility.
+        </p>
+				<div>  
+					<a href='https://www.agency.pics/' target="_blank">
+						<img src="carshare.png" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+					   <a href="https://github.com/iamqasimali/agency_pics" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					   </a>  
+					   <a href="https://www.agency.pics/" target="_blank">
+              					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+					   </a>
+					</p>
+					<p><strong>Next.js, React, Typescript, TailwindCSS, Ruby on Rails, Sendgrid, Stripe Payments</strong></p>
+          <p>
+          <strong>
+          Frontend
+          </strong>
+          </p>
+          <p>
+            Next.js, React, TailwindCSS, Javascript, Axios, Chart.js, Cropperjs, Flatpickr, react-share, react-google-recaptcha, react-image-gallery, react-infinite-scroll-component, react-loader-spinner, react-loading-skeleton, react-phone-number-input, formik, react-query
           </p>
           <p>
             <strong>
@@ -182,50 +262,6 @@
 					 <p><strong>HTML, CSS, Javascript</strong></p>
 					<p>Description goes here</p>
 				</div>
-        </tr>
-	    <tr>
-            <td width="100%">
-                <h3>ACS Sameday</h3>
-                <div>  
-                    <a href='https://codingphase.com' target="_blank">
-                        <img src="3.png" alt="project 3" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
-                    </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
-                </div>
-            </td>    
-        </tr>
-        <tr>
-        <td width="100%">
-                <h3>Intime GDT</h3>
-                <div>  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="intimeGDT.png" alt="project 4" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-                    </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
-                </div>	
-            </td>
         </tr>
 	</table>
 </div>
