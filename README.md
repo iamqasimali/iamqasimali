@@ -84,9 +84,9 @@
 <div align="center">
 	<table>
 		<tr>
-			<td width="50%">
-				<h3 align="center">Agency Pics</h3>
-				<div align="center">  
+			<td width="100%">
+				<h3 align="">Agency Pics</h3>
+				<div align="">  
 					<a href='https://www.agency.pics/' target="_blank">
 						<img src="1.png" alt="project 1" height="100%" />
 					</a>
@@ -101,25 +101,30 @@
 					   </a>
 					</p>
 					<p><strong>Ruby on Rails, React, Sendgrid, Stripe Payments</strong></p>
-          				<p>
-						<ul>
-							<li>Heroku for Production Environment</li>
-							<li>Stripe Checkouts, customers, Products</li>
-							<li>Devise for Authentication</li>
-							<li>Pendit for Authorization</li>
-							<li>Postgreql || PG_Search </li>
-							<li>Active Storage </li>
-							<li>Kaminari </li>
-							<li>REST API's</li>
-							<li>Monthly subscriptions deduction || ActiveJobs || Sidekiq </li>
-							<li>HTML, Bootstrap,SCSS, Javascript</li>
-						</ul>
-					</p>
+          <p>
+          <strong>
+          Frontend
+          </strong>
+          </p>
+          <p>
+            HTML, CSS, SASS, SCSS, Bootstrap, Javascript, React, useState, useEffect, useRef, Axios, Chart.js, Cropperjs,  Flatpickr, react-share, react-google-recaptcha, react-image-gallery, react-infinite-scroll-component, react-loader-spinner, react-loading-skeleton, react-phone-number-input, react_ujs
+          </p>
+          <p>
+            <strong>
+              Backend
+            </strong>
+          </p>
+          <p>
+            Stripe Checkout, Stripe Customers, Stripe Products, Devise, Pendit, Pg-search, Simple_form, Omniauth-facebook, Gibbon,  Faker, Sendgrid-ruby, Sentry-rails, Sidekiq, Activejobs, ActiveStorage, Kaminari, Heroku, AWS S3
+          </p>
 				</div>
 			</td>
-			<td width="50%">
-				<h3 align="center">Diamond Chauffeur Limousine</h3>
-				<div align="center" >  
+
+   </tr>
+   <tr>
+			<td >
+				<h3>Diamond Chauffeur Limousine</h3>
+				<div>  
 					<a href='https://codingphase.com' target="_blank">
 						<img src="2.png" alt="project 1" height="100%" />
 					</a>
@@ -138,9 +143,9 @@
 				</div>
         </tr>
 	    <tr>
-            <td width="50%">
-                <h3 align="center">ACS Sameday</h3>
-                <div align="center" >  
+            <td width="100%">
+                <h3>ACS Sameday</h3>
+                <div>  
                     <a href='https://codingphase.com' target="_blank">
                         <img src="3.png" alt="project 3" height="100%" />
                     </a>
@@ -157,10 +162,12 @@
                     <p><strong>HTML, CSS, Javascript</strong></p>
 		    <p>Description goes here</p>
                 </div>
-            </td>
-            <td width="50%">
-                <h3 align="center">Intime GDT</h3>
-                <div align="center">  
+            </td>    
+        </tr>
+        <tr>
+        <td width="100%">
+                <h3>Intime GDT</h3>
+                <div>  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
                         <img src="4.png" alt="project 4" height="100%" />
                     </a>
