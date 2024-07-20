@@ -25,11 +25,11 @@
 <h2> 👨‍💻 Know Me </h2>
 
 - 🔭 I’m currently working on Web Applications
-- 🌱 Learning Backend Development (Python - Node - Data Structures and Algorithms)
+- 🌱 Learning Backend Development (Python, Generative AI, LLM)
 - 💬 Interested in open source projects collaboration and app Security.
 - 😄 Pronouns: He/Him
 - ⚡  Motivated ✨
-- 👯 I’m looking to collaborate on fintech & block-chain technology web application projects
+- 👯 I’m looking to collaborate on Generative AI, fintech & block-chain technology web application projects
 - 💬 Ask me about Full-stack Web Applications
 - 📫 How to reach me: iamqasimalizahid@gmail.com
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug.
@@ -83,6 +83,45 @@
 <h2>Projects</h2>
 <div align="center">
 	<table>
+    <tr>
+			<td width="100%">
+				<h3 align="">Badminton</h3>
+        <p>
+        The project is a comprehensive badminton tournament organization and management system featuring three distinct portals: Player, Tournament Management, and Admin. Built using the MERN stack, this system leverages React for a dynamic front-end experience, Express.js for the backend API, and PostgreSQL for robust data management.
+        </p>
+				<div align="">  
+					<a href='https://www.agency.pics/' target="_blank">
+						<img src="badminton.png" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+					   <a href="https://github.com/iamqasimali/agency_pics" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					   </a>  
+					   <a href="https://www.agency.pics/" target="_blank">
+              					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+					   </a>
+					</p>
+					<p><strong>React, Express.js, Nodejs, Stripe Payments</strong></p>
+          <p>
+          <strong>
+          Frontend
+          </strong>
+          </p>
+          <p>
+             Javascript, React, JSX, TailwindCSS, useState, useEffect, useRef, Axios, Chart.js, Cropperjs,  Flatpickr, react-google-recaptcha, react-image-gallery, react-infinite-scroll-component, react-loader-spinner, react-loading-skeleton, react-phone-number-input, Axios
+          </p>
+          <p>
+            <strong>
+              Backend
+            </strong>
+          </p>
+          <p>
+            Bcryptjs, cookie-parser, cors, dotenv, express, jsonwebtoken, sequelize, uuid, Heroku, AWS S3
+          </p>
+				</div>
+			</td>
 		<tr>
 			<td width="100%">
 				<h3 align="">Agency Pics</h3>
@@ -107,7 +146,7 @@
           </strong>
           </p>
           <p>
-            HTML, CSS, SASS, SCSS, Bootstrap, Javascript, React, useState, useEffect, useRef, Axios, Chart.js, Cropperjs,  Flatpickr, react-share, react-google-recaptcha, react-image-gallery, react-infinite-scroll-component, react-loader-spinner, react-loading-skeleton, react-phone-number-input, react_ujs
+            React, SCSS, Bootstrap, Javascript, useState, useEffect, useRef, Axios, Chart.js, Cropperjs, Flatpickr, react-share, react-google-recaptcha, react-image-gallery, react-infinite-scroll-component, react-loader-spinner, react-loading-skeleton, react-phone-number-input, react_ujs
           </p>
           <p>
             <strong>
@@ -119,7 +158,6 @@
           </p>
 				</div>
 			</td>
-
    </tr>
    <tr>
 			<td >
@@ -169,7 +207,7 @@
                 <h3>Intime GDT</h3>
                 <div>  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="4.png" alt="project 4" height="100%" />
+                        <img src="intimeGDT.png" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
