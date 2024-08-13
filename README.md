@@ -1,6 +1,7 @@
 
 <div>
-    <img src="Blue and Pink Professional Business Strategy Presentation.svg" height="50%" width="100%" /> 
+    <!-- <img src="Blue and Pink Professional Business Strategy Presentation.svg" height="50%" width="100%" />  -->
+    <img src="qasim_2.png" height="50%" width="100%" />
 </div>
 <h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="40px"/></h3>
 <hr>
