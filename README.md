@@ -203,6 +203,31 @@
 				</div>
 			</td>
    </tr>
+      <tr>
+			<td width="100%">
+				<h3>IntimeGDT</h3>
+        <p>
+        Web-based monitoring and observability platform, built using Hugo, Tailwind CSS, and Alpine.js. It provides real-time insights into IT infrastructure, applications, and systems, allowing users to monitor performance, errors, and logs. The platform features a modern, responsive interface designed with Tailwind CSS, offering an intuitive user experience across all devices. With the help of Alpine.js, Elite Sentry includes dynamic, interactive components for smooth front-end interactivity. It supports customizable dashboards for visualizing critical data metrics.
+        </p>
+				<div>  
+					<a href='https://www.agency.pics/' target="_blank">
+						<img src="Elite-Sentry.png" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+					   <a href="https://github.com/iamqasimali/agency_pics" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					   </a>  
+					   <a href="https://www.agency.pics/" target="_blank">
+              					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+					   </a>
+					</p>
+					<p><strong>AlpineJS, TailwindCSS, Hugo, Netlify</strong>
+          </p>
+				</div>
+			</td>
+   </tr>
     <tr>
 			<td width="100%">
 				<h3>CarShare</h3>
