@@ -16,7 +16,7 @@
 <!--   <a href="https://shafqat.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge"/>
   </a> -->
-  <img src="https://komarev.com/ghpvc/?username=MrShafqatNadeem&style=for-the-badge&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=iamqasimali&style=for-the-badge&color=blue" alt=""/>
  
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Greetings+I'm+Qasim+Ali+Zahid+...;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Web+Developer+...;%F0%9F%92%BB++Ruby+on+Rails+%2B+React+...;%F0%9F%8E%89+Welcome+to+my+profile" alt="Typing SVG" /></a>   
@@ -298,12 +298,12 @@
 <!-- SOCIALS -->
 
 <h2 align="center">Contact Me</h2>
-<p align="center"><a href="https://ko-fi.com/Z8Z0UWCMH" rel="nofollow" target="blank" ><img src="https://camo.githubusercontent.com/ce32b4940b9ebf361cfd346ba0582815846406854cd2f701c11a85cb21eaa939/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667" alt="ko-fi" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;"></a></p>
-
+<!-- <p align="center"><a href="https://ko-fi.com/Z8Z0UWCMH" rel="nofollow" target="blank" ><img src="https://camo.githubusercontent.com/ce32b4940b9ebf361cfd346ba0582815846406854cd2f701c11a85cb21eaa939/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667" alt="ko-fi" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;"></a></p> -->
 <p align="center">
-	&nbsp&nbsp&nbsp
-	<a href="https://twitter.com/QasimA6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://www.linkedin.com/in/qasim-zahid-a69326a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/qasim-ali-zahid/https://www.linkedin.com/in/qasim-ali-zahid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/qasim-ali-zahid/https://www.linkedin.com/in/qasim-ali-zahid/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19468404/qasim-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19468404/qasim-ali" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@qasimali7566675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@qasimali7566675" height="30" width="40" /></a>
+<a href="https://twitter.com/QasimA6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>	
 </p>
 
 <hr>
@@ -323,4 +323,4 @@
 <div align="center">
   <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="60" /> with <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="50" /> by [Qasim Ali Zahid]
   <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="Girl in a jacket" width="100" height="100">
-</div>
+</div
