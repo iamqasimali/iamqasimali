@@ -170,8 +170,8 @@
           The IntimeGDT provides access to a wide variety of datasets, allowing users to discover, evaluate, and access data in real-time. It offers data products from multiple providers, which can be seamlessly integrated into users' data ecosystems for various use cases, including analytics, machine learning, and business intelligence. The marketplace includes datasets across different industries and domains, helping organizations make data-driven decisions.
         </p>
 				<div>  
-					<a href='https://www.agency.pics/' target="_blank">
-						<img src="intimeGDT.png" alt="project 1" height="100%" />
+					<a href='https://intimegdt.com/' target="_blank">
+						<img src="intimeGDT_new.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
