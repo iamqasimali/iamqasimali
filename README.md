@@ -127,7 +127,7 @@
 			<td width="100%">
 				<h3>Agency Pics</h3>
         <p>
-        Agency.pics is a platform designed for connecting models, influencers, and creatives. It provides a space for users to showcase their portfolios and network with industry professionals. The site aims to streamline the process of finding and collaborating with talent for various creative projects.
+        Agency.pics is a platform designed to connect models, influencers, and creatives. It allows users to showcase their portfolios and network with industry professionals. The site aims to streamline the process of finding and collaborating with talent for various creative projects.
         </p>
 				<div>  
 					<a href='https://www.agency.pics/' target="_blank">
@@ -167,7 +167,7 @@
 			<td width="100%">
 				<h3>IntimeGDT</h3>
         <p>
-          The IntimeGDT provides access to a wide variety of datasets, allowing users to discover, evaluate, and access data in real-time. It offers data products from multiple providers, which can be seamlessly integrated into users' data ecosystems for various use cases, including analytics, machine learning, and business intelligence. The marketplace includes datasets across different industries and domains, helping organizations make data-driven decisions.
+          The IntimeGDT provides access to a wide variety of datasets, allowing users to discover, evaluate, and access data in real-time. It offers data products from multiple providers that can be seamlessly integrated into users' data ecosystems for various use cases, including analytics, machine learning, and business intelligence. The marketplace includes datasets across different industries and domains, helping organizations make data-driven decisions.
         </p>
 				<div>  
 					<a href='https://intimegdt.com/' target="_blank">
