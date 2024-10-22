@@ -308,8 +308,6 @@
 
 <hr>
 <br>
-
-
 <h2> 😆 Fun </h2>
 <br/>
 <div align="center">
