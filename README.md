@@ -1,4 +1,3 @@
-
 <div>
     <!-- <img src="Blue and Pink Professional Business Strategy Presentation.svg" height="50%" width="100%" />  -->
     <img src="qasim_2.png" height="50%" width="100%" />
