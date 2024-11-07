@@ -65,21 +65,15 @@
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="75" height="75" />
                 </div>
 </div>
-
 <br>
-
 <!-- STATS -->
 <div align="center" margin="100px 0 0 0">
-
 <h2> 🔥 Stats</h2>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamqasimali&show_icons=true&theme=dark&locale=en&layout=compact" alt="iamqasimali" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamqasimali&show_icons=true&theme=dark&locale=en" alt="iamqasimali" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamqasimali&theme=dark" alt="iamqasimali" /></p>
 </div>
-
-
 <!-- PROJECTS -->
-
 <h2>Projects</h2>
 <div align="center">
 	<table>
