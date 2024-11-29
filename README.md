@@ -221,6 +221,47 @@
 				</div>
 			</td>
    </tr>
+   </tr>
+      <tr>
+			<td width="100%">
+				<h3>BlueBolivia</h3>
+        <p>
+         BlueBolivia is an intuitive platform built to meet the needs of users looking to track and convert between multiple currencies, with a special focus on the Bolivian economy. With its detailed charting capabilities and administrative features, BlueBolivia serves as a robust tool for both casual users and professionals interested in monitoring currency fluctuations.
+        </p>
+				<div>  
+					<a href='https://bluebolivia.com/' target="_blank">
+						<img src="bluebolivia.png" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+					   <a href="https://github.com/iamqasimali/agency_pics" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					   </a>  
+					   <a href="https://bluebolivia.com/" target="_blank">
+              					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+					   </a>
+					</p>
+					<p><strong>MERN Stack (MongoDB, Express.js, React, Node.js), Tailwind CSS, Binance APIs, Currency Rate APIs</strong>
+          </p>
+          <strong>
+          Frontend
+          </strong>
+          </p>
+          <p>
+            React, TailwindCSS, Javascript, useState, useEffect, useRef, Axios, Chart.js, react-loader-spinner, react-loading-skeleton, react-phone-number-input, formik, react-query
+          </p>
+          <p>
+            <strong>
+              Backend
+            </strong>
+          </p>
+          <p>
+            Binance API's, Currency Converter APIs, Express.js, Node.js, Joi, axios, cors, cron, node-cron,  csv-parser, jsonwebtoken, moment, dotenv
+          </p>
+				</div>
+			</td>
+   </tr>
     <tr>
 			<td width="100%">
 				<h3>CarShare</h3>
