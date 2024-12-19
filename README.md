@@ -6,7 +6,6 @@
 <hr>
 
 <!-- TECHS -->
-
 <div id="header" align="center">  
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
   <a href="https://www.linkedin.com/in/qasim-zahid-a69326a7/" >
@@ -18,8 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamqasimali&style=for-the-badge&color=blue" alt=""/>
  
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Greetings+I'm+Qasim+Ali+Zahid+...;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Web+Developer+...;%F0%9F%92%BB++Ruby+on+Rails+%2B+React+...;%F0%9F%8E%89+Welcome+to+my+profile" alt="Typing SVG" /></a>   
-  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Greetings+I'm+Qasim+Ali+Zahid+...;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Web+Developer+...;%F0%9F%92%BB++Ruby+on+Rails+%2B+React+...;%F0%9F%8E%89+Welcome+to+my+profile" alt="Typing SVG" /></a>
 </div>
 
 <h2> 👨‍💻 Know Me </h2>
@@ -33,7 +31,6 @@
 - 💬 Ask me about Full-stack Web Applications
 - 📫 How to reach me: iamqasimalizahid@gmail.com
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug.
-
 <br/>
 
 <h2> 🛠️ Languages and Tools </h2>
