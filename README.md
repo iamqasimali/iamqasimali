@@ -75,8 +75,8 @@
 <div align="center">
 	<table>
     <tr>
-			<td width="100%">
-				<h3 align="">Badminton</h3>
+	<td width="100%">
+		<h3 align="">Badminton</h3>
         <p>
         The project is a comprehensive badminton tournament organization and management system featuring three distinct portals: Player, Tournament Management, and Admin. Built using the MERN stack, this system leverages React for a dynamic front-end experience, Express.js for the backend API, and PostgreSQL for robust data management.
         </p>
