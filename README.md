@@ -48,7 +48,8 @@
 		      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="75" height="75"/>
 		      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="75" height="75"/>
 		      <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="75" height="75"/>
-		      <img src="https://github.com/gilbarbara/logos/blob/main/logos/nodejs.svg" alt="nodejs" width="75" height="75"/>    
+		      <img src="https://github.com/gilbarbara/logos/blob/main/logos/nodejs.svg" alt="nodejs" width="75" height="75"/>
+		     <img src="https://github.com/pheralb/svgl/blob/main/static/library/expressjs_dark.svg" alt="nodejs" width="75" height="75"/>	    
                       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/>   
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
@@ -61,6 +62,7 @@
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="75" height="75" />
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="75" height="75" />
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="75" height="75" />
+	              <img src="https://github.com/gilbarbara/logos/blob/main/logos/jekyll.svg" width="75" height="75" />    
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="75" height="75" />
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="75" height="75" />
                 </div>
