@@ -79,6 +79,45 @@
 <div align="center">
 	<table>
     <tr>
+	    <td width="100%">
+		    <h3 align="">Roavi</h3>
+        <p>
+          ROAVI is a comprehensive platform designed to connect travelers with local companions and guides. Built using React for a dynamic and engaging front-end experience, backed by Ruby on Rails for the server-side logic, ROAVI leverages AWS S3 for secure file storage, and Heroku and Netlify for seamless deployment. The platform utilizes Devise for secure authentication and JWT for efficient user session management, ensuring a smooth and reliable user experience.
+        </p>
+				<div>  
+					<a href='https://roavi.netlify.app/' target="_blank">
+						<img src="Roavi.png" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+					   <a href="https://github.com/iamqasimali/agency_pics" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					   </a>  
+					   <a href="https://www.agency.pics/" target="_blank">
+              					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+					   </a>
+					</p>
+					<p><strong>RubyonRails, React, Heroku, AWS S3, Postgresql</strong></p>
+          <p>
+          <strong>
+          Frontend
+          </strong>
+          </p>
+          <p>
+             React.js, Javascript, React, JSX, TailwindCSS, useState, useEffect, useRef, Chart.js, Cropperjs,  Flatpickr, react-google-recaptcha, react-image-gallery, react-infinite-scroll-component, react-loader-spinner, react-loading-skeleton, react-phone-number-input, Axios, react-query, formik
+          </p>
+          <p>
+            <strong>
+              Backend
+            </strong>
+          </p>
+          <p>
+            Devise, Stripe Checkout, Stripe Customers, Stripe Products, Devise, Pendit, Pg-search, Simple_form, Omniauth-facebook, Gibbon,  Faker, Sendgrid-ruby, Sentry-rails, Sidekiq, Activejobs, ActiveStorage, Kaminari, Heroku, AWS S3 Heroku, AWS S3, Postgresql
+          </p>
+				</div>
+			</td>
+    <tr>
 	<td width="100%">
 		<h3 align="">Badminton</h3>
         <p>
