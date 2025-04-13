@@ -61,7 +61,7 @@
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="75" height="75" />
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="75" height="75" />
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="75" height="75" />
-                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="75" height="75" />
+                      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="75" height="75" />
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" width="75" height="75" />
 	              <img src="https://github.com/gilbarbara/logos/blob/main/logos/jekyll.svg" width="75" height="75" />    
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="75" height="75" />
