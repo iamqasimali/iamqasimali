@@ -90,7 +90,7 @@
         </p>
 				<div>  
 					<a href='https://roavi.netlify.app/' target="_blank">
-						<img src="Roavi.png" alt="project 1" height="100%" />
+						<img src="Roavi.png" alt="project 1" style="width:100%; max-width:600px; height:auto;" />
 					</a>
 					<br>
 					<br>
@@ -129,7 +129,7 @@
         </p>
 				<div>  
 					<a href='https://www.agency.pics/' target="_blank">
-						<img src="badminton.png" alt="project 1" height="100%" />
+						<img src="badminton.png" alt="project 1" style="width:100%; max-width:600px; height:auto;" />
 					</a>
 					<br>
 					<br>
