@@ -168,7 +168,7 @@
         </p>
 				<div>  
 					<a href='https://www.agency.pics/' target="_blank">
-						<img src="agencyPic.png" alt="project 1" height="100%" />
+						<img src="agencyPic.png" alt="project 1" style="width:100%; max-width:600px; height:auto;" />
 					</a>
 					<br>
 					<br>
@@ -208,7 +208,7 @@
         </p>
 				<div>  
 					<a href='https://intimegdt.com/' target="_blank">
-						<img src="intimeGDT_new.png" alt="project 1" height="100%" />
+						<img src="intimeGDT_new.png" alt="project 1" style="width:100%; max-width:600px; height:auto;" />
 					</a>
 					<br>
 					<br>
@@ -248,7 +248,7 @@
         </p>
 				<div>  
 					<a href='https://www.agency.pics/' target="_blank">
-						<img src="Elite-Sentry.png" alt="project 1" height="100%" />
+						<img src="Elite-Sentry.png" alt="project 1" style="width:100%; max-width:600px; height:auto;" />
 					</a>
 					<br>
 					<br>
@@ -274,7 +274,7 @@
         </p>
 				<div>  
 					<a href='https://bluebolivia.com/' target="_blank">
-						<img src="bluebolivia.png" alt="project 1" height="100%" />
+						<img src="bluebolivia.png" alt="project 1" style="width:100%; max-width:600px; height:auto;" />
 					</a>
 					<br>
 					<br>
@@ -314,7 +314,7 @@
         </p>
 				<div>  
 					<a href='https://www.agency.pics/' target="_blank">
-						<img src="carshare.png" alt="project 1" height="100%" />
+						<img src="carshare.png" alt="project 1" style="width:100%; max-width:600px; height:auto;" />
 					</a>
 					<br>
 					<br>
@@ -351,7 +351,7 @@
 				<h3>Diamond Chauffeur Limousine</h3>
 				<div>  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="2.png" alt="project 1" height="100%" />
+						<img src="2.png" alt="project 1" style="width:100%; max-width:600px; height:auto;" />
 					</a>
 					<br>
 					<br>
