@@ -87,7 +87,7 @@
           ROAVI is a comprehensive platform designed to connect travelers with local companions and guides. Built using React for a dynamic and engaging front-end experience, backed by Ruby on Rails for the server-side logic, ROAVI leverages AWS S3 for secure file storage, and Heroku and Netlify for seamless deployment. The platform utilizes Devise for secure authentication and JWT for efficient user session management, ensuring a smooth and reliable user experience.
         </p>
 				<div>  
-					<a href='https://roavi.netlify.app/' target="_blank">
+					<a href='https://roavi.com/' target="_blank">
 						<img src="Roavi.png" alt="project 1" style="width:100%; max-width:600px; height:auto;" />
 					</a>
 					<br>
@@ -96,7 +96,7 @@
 					   <a href="https://github.com/iamqasimali/agency_pics" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					   </a>  
-					   <a href="https://www.agency.pics/" target="_blank">
+					   <a href="https://roavi.com/" target="_blank">
               					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 					   </a>
 					</p>
@@ -214,7 +214,7 @@
 					   <a href="https://github.com/iamqasimali/agency_pics" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					   </a>  
-					   <a href="https://www.agency.pics/" target="_blank">
+					   <a href="https://intimegdt.netlify.app/" target="_blank">
               					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 					   </a>
 					</p>
