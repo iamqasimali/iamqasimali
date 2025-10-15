@@ -184,7 +184,7 @@ Platform designed to connect models, influencers, and creatives. Allows users to
 **🔗 Live Demo:** [intimegdt.com](https://intimegdt.netlify.app/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
 <div align="center">
-  <img src="IntimeGDT.png" alt="IntimeGDT Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="intimeGDT.png" alt="IntimeGDT Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 Platform providing access to diverse datasets for real-time data discovery, evaluation, and integration across various industries and domains.
