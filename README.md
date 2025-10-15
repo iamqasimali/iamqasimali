@@ -110,11 +110,15 @@
 ### 🚀 Roavi - Travel Companion Platform
 **🔗 Live Demo:** [roavi.com](https://roavi.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
+<div align="center">
+  <img src="roavi.png" alt="Roavi Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
+
 A comprehensive platform connecting travelers with local companions and guides. Built using React for a dynamic front-end experience and Ruby on Rails for robust server-side logic.
 
 **🛠️ Tech Stack:** Ruby on Rails, React, Heroku, AWS S3, PostgreSQL, Devise, JWT, Stripe
 
-**Frontend:** React.js, JavaScript, JSX, TailwindCSS, Chart.js, Axios, React Query, Formik
+**Frontend:** React.js, JavaScript, JSX, TailwindCSS, Chart.js, Axios, React Query, Formik  
 **Backend:** Devise, Stripe, Pundit, Sidekiq, Active Storage, SendGrid
 
 ---
@@ -122,11 +126,15 @@ A comprehensive platform connecting travelers with local companions and guides. 
 ### 🏸 Badminton Tournament Management System
 **🔗 Live Demo:** [agency.pics](https://www.agency.pics/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
+<div align="center">
+  <img src="badminton.png" alt="Badminton Tournament System" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
+
 Comprehensive tournament organization system with three distinct portals: Player, Tournament Management, and Admin. Built using the MERN stack.
 
 **🛠️ Tech Stack:** Next.js, React, Express.js, Node.js, AWS S3, PostgreSQL
 
-**Frontend:** Next.js, JavaScript, React, TailwindCSS, Chart.js, Axios, React Query
+**Frontend:** Next.js, JavaScript, React, TailwindCSS, Chart.js, Axios, React Query  
 **Backend:** Express.js, JWT, Sequelize, Bcrypt, CORS
 
 ---
@@ -134,11 +142,15 @@ Comprehensive tournament organization system with three distinct portals: Player
 ### 📸 Agency Pics - Creative Networking Platform
 **🔗 Live Demo:** [agency.pics](https://www.agency.pics/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
+<div align="center">
+  <img src="agencyPic.png" alt="Agency Pics Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
+
 Platform designed to connect models, influencers, and creatives. Allows users to showcase portfolios and network with industry professionals.
 
 **🛠️ Tech Stack:** Ruby on Rails, React, SendGrid, Stripe Payments, Heroku, AWS S3
 
-**Frontend:** React, SCSS, Bootstrap, JavaScript, Chart.js, React Image Gallery
+**Frontend:** React, SCSS, Bootstrap, JavaScript, Chart.js, React Image Gallery  
 **Backend:** Stripe, Devise, Pundit, Sidekiq, Active Storage, Kaminari
 
 ---
@@ -146,17 +158,25 @@ Platform designed to connect models, influencers, and creatives. Allows users to
 ### 📊 IntimeGDT - Data Marketplace
 **🔗 Live Demo:** [intimegdt.com](https://intimegdt.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
+<div align="center">
+  <img src="intimeGDT_new.png" alt="IntimeGDT Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
+
 Platform providing access to diverse datasets for real-time data discovery, evaluation, and integration across various industries and domains.
 
 **🛠️ Tech Stack:** Next.js, React, TailwindCSS, Ruby on Rails, SendGrid, Stripe
 
-**Frontend:** Next.js, React, TailwindCSS, Chart.js, React Query, Formik
+**Frontend:** Next.js, React, TailwindCSS, Chart.js, React Query, Formik  
 **Backend:** Ruby on Rails, Stripe, Devise, Sidekiq, AWS S3
 
 ---
 
 ### 🛡️ Elite Sentry - Monitoring Platform
 **🔗 Live Demo:** [agency.pics](https://www.agency.pics/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
+
+<div align="center">
+  <img src="Elite-Sentry.png" alt="Elite Sentry Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
 
 Web-based monitoring and observability platform providing real-time insights into IT infrastructure, applications, and systems.
 
@@ -169,11 +189,15 @@ Web-based monitoring and observability platform providing real-time insights int
 ### 💰 BlueBolivia - Currency Tracking Platform
 **🔗 Live Demo:** [bluebolivia.com](https://bluebolivia.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
+<div align="center">
+  <img src="bluebolivia.png" alt="BlueBolivia Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
+
 Intuitive platform for tracking and converting between multiple currencies with focus on Bolivian economy. Features detailed charting and admin capabilities.
 
 **🛠️ Tech Stack:** MERN Stack, Tailwind CSS, Binance APIs, Currency Rate APIs
 
-**Frontend:** React, TailwindCSS, Chart.js, Axios, React Query
+**Frontend:** React, TailwindCSS, Chart.js, Axios, React Query  
 **Backend:** Node.js, Express.js, JWT, Cron jobs, Multiple API integrations
 
 ---
@@ -181,17 +205,25 @@ Intuitive platform for tracking and converting between multiple currencies with 
 ### 🚗 CarShare - Car Rental Platform
 **🔗 Live Demo:** [agency.pics](https://www.agency.pics/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
+<div align="center">
+  <img src="carshare.png" alt="CarShare Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
+
 Modern car sharing platform enabling short-term car rentals by the hour. Connects car owners with renters through a seamless digital experience.
 
 **🛠️ Tech Stack:** Next.js, React, TypeScript, TailwindCSS, Ruby on Rails, Stripe
 
-**Frontend:** Next.js, TypeScript, TailwindCSS, React Query, Formik
+**Frontend:** Next.js, TypeScript, TailwindCSS, React Query, Formik  
 **Backend:** Ruby on Rails, Stripe, Devise, AWS S3, SendGrid
 
 ---
 
 ### 🚘 Diamond Chauffeur Limousine
 **🔗 Live Demo:** [Visit Site](https://codingphase.com) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
+
+<div align="center">
+  <img src="2.png" alt="Diamond Chauffeur Limousine" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
 
 Luxury transportation service website providing premium chauffeur services with elegant design and seamless user experience.
 
