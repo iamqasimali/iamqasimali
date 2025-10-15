@@ -123,6 +123,31 @@ A comprehensive platform connecting travelers with local companions and guides. 
 
 ---
 
+### 🏪 Restaurant POS System - Complete Management Solution
+**🔗 Live Demo:** [POS Demo](https://shinwariderapos.netlify.app/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/restaurant-pos)
+
+<div align="center">
+  <img src="pos-system.png" alt="Restaurant POS System" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
+
+A comprehensive Point of Sale system designed for modern restaurants, featuring multi-portal access, real-time inventory management, and detailed analytics. Streamlines restaurant operations from order taking to financial reporting.
+
+**🛠️ Tech Stack:** React, TailwindCSS, Node.js, Express.js, PostgreSQL, JWT, Socket.io
+
+**Key Features:**
+- **Cashier Portal:** Order management, table booking, billing, invoice generation
+- **Admin Portal:** Complete business oversight, reports, employee management
+- **Inventory Management:** Real-time stock tracking, low stock alerts, supplier management
+- **Reporting & Analytics:** Sales reports, revenue analytics, performance metrics
+- **Employee Management:** Staff scheduling, role-based access, performance tracking
+- **Utensils & Equipment:** Maintenance tracking, usage logs, replacement scheduling
+
+**Frontend:** React, TailwindCSS, Redux Toolkit, React Query, Chart.js, React Hook Form
+**Backend:** Node.js, Express.js, JWT Authentication, Socket.io, Bcrypt, CORS
+**Database:** PostgreSQL with complex relations for inventory, orders, and users
+
+---
+
 ### 🏸 Badminton Tournament Management System
 **🔗 Live Demo:** [agency.pics](https://www.agency.pics/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
