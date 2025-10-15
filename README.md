@@ -87,7 +87,7 @@
         </p>
 				<div>  
 					<a href='https://roavi.com/' target="_blank">
-						<img src="Roavi.png" alt="project 1" style="width:100%; max-width:600px; height:auto;" />
+						<img src="roavi.png" alt="project 1" style="width:100%; max-width:600px; height:auto;" />
 					</a>
 					<br>
 					<br>
