@@ -9,7 +9,7 @@
 
 <div id="header" align="center">  
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
-  <a href="https://www.linkedin.com/in/qasim-zahid-a69326a7/" >
+  <a href="https://www.linkedin.com/in/qasim-zahid/" >
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="https://shafqat.netlify.app" target="_blank">
@@ -222,7 +222,7 @@
               					<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 					   </a>
 					</p>
-					<p><strong>Next.js, React, Typescript, TailwindCSS, Ruby on Rails, Sendgrid, Stripe Payments</strong></p>
+					<p><strong>Next.js, React, Ty, TailwindCSS, Ruby on Rails, Sendgrid, Stripe Payments</strong></p>
           <p>
           <strong>
           Frontend
