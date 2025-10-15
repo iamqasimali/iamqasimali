@@ -181,10 +181,10 @@ Platform designed to connect models, influencers, and creatives. Allows users to
 ---
 
 ### 📊 IntimeGDT - Data Marketplace
-**🔗 Live Demo:** [intimegdt.com](https://intimegdt.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
+**🔗 Live Demo:** [intimegdt.com](https://intimegdt.netlify.app/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
 <div align="center">
-  <img src="intimeGDT_new.png" alt="IntimeGDT Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="IntimeGDT.png" alt="IntimeGDT Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 Platform providing access to diverse datasets for real-time data discovery, evaluation, and integration across various industries and domains.
@@ -197,7 +197,7 @@ Platform providing access to diverse datasets for real-time data discovery, eval
 ---
 
 ### 🛡️ Elite Sentry - Monitoring Platform
-**🔗 Live Demo:** [agency.pics](https://www.agency.pics/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
+**🔗 Live Demo:** [agency.pics](https://elitesentry.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/elitesentry)
 
 <div align="center">
   <img src="Elite-Sentry.png" alt="Elite Sentry Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
@@ -212,7 +212,7 @@ Web-based monitoring and observability platform providing real-time insights int
 ---
 
 ### 💰 BlueBolivia - Currency Tracking Platform
-**🔗 Live Demo:** [bluebolivia.com](https://bluebolivia.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
+**🔗 Live Demo:** [bluebolivia.com](https://bluebolivia.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/blue_bolivia)
 
 <div align="center">
   <img src="bluebolivia.png" alt="BlueBolivia Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
@@ -228,7 +228,7 @@ Intuitive platform for tracking and converting between multiple currencies with 
 ---
 
 ### 🚗 CarShare - Car Rental Platform
-**🔗 Live Demo:** [agency.pics](https://www.agency.pics/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
+**🔗 Live Demo:** [agency.pics](https://www.carshare.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/carshare)
 
 <div align="center">
   <img src="carshare.png" alt="CarShare Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
@@ -244,7 +244,7 @@ Modern car sharing platform enabling short-term car rentals by the hour. Connect
 ---
 
 ### 🚘 Diamond Chauffeur Limousine
-**🔗 Live Demo:** [Visit Site](https://codingphase.com) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
+**🔗 Live Demo:** [Visit Site](https://diamondchauffeurtourism.com) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/dcl)
 
 <div align="center">
   <img src="2.png" alt="Diamond Chauffeur Limousine" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
