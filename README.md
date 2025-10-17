@@ -81,7 +81,11 @@
 </div>
 
 ### Static Site Generators & AI/ML
-<div align="center"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="Jekyll" width="60" height="60" title="Jekyll"/> <img src="https://www.vectorlogo.zone/logos/gohugoio/gohugoio-icon.svg" alt="Hugo" width="60" height="60" title="Hugo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60" title="PyTorch"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60" title="TensorFlow"/> </div>
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="Jekyll" width="60" height="60" title="Jekyll"/>
+  <img src="https://gohugo.io/images/hugo-logo-wide.svg" alt="Hugo" width="60" height="60" title="Hugo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60" title="TensorFlow"/> </div>
 
 ### Tools & Others
 <div align="center">
