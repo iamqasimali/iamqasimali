@@ -64,6 +64,9 @@
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/nodejs.svg" alt="Node.js" width="60" height="60" title="Node.js"/>
   <img src="https://github.com/pheralb/svgl/blob/main/static/library/expressjs_dark.svg" alt="Express.js" width="60" height="60" title="Express.js"/>
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="60" height="60" title="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="60" height="60" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60" title="Flask"/>
 </div>
 
 ### Databases & Cloud
@@ -76,6 +79,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="60" height="60" title="Heroku"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="60" height="60" title="DigitalOcean"/>
 </div>
+
+### Static Site Generators & AI/ML
+<div align="center"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="Jekyll" width="60" height="60" title="Jekyll"/> <img src="https://www.vectorlogo.zone/logos/gohugoio/gohugoio-icon.svg" alt="Hugo" width="60" height="60" title="Hugo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60" title="PyTorch"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60" title="TensorFlow"/> </div>
 
 ### Tools & Others
 <div align="center">
