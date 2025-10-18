@@ -196,6 +196,29 @@ Platform providing access to diverse datasets for real-time data discovery, eval
 
 ---
 
+### 📦 DHL Cargo Management System – Full Logistics Platform
+**🔗 Live Demo:** (Coming Soon) | **📁 Repository:**  GitHub (replace with actual link)
+
+<div align="center">
+<img src="dhl.png" alt="DHL Cargo Management System" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
+
+A comprehensive cargo booking and logistics tracking platform built for freight forwarders and shipping agents. The system enables cashiers to manage shipments, track customer payments, and coordinate with carriers like DHL, UPS, and FedEx — while admins oversee operations, users, and financials.
+
+**🛠️ Tech Stack:**  PERN Stack (PostgreSQL, Express, React, Node.js), Vite, TailwindCSS, JWT, Sequelize
+
+**Key Features:**
+
+-  Dual Portal System: Role-based interfaces for Cashiers (booking, customer mgmt) and Admins (user/shipment oversight, reporting)
+-  Shipment Lifecycle: Full CRUD with auto-generated PKR-based tracking numbers (CARGO-PKR-YYYYMMDD-001)
+- Financial Tracking: Record customer payments and carrier costs, calculate profit per shipment
+- Customer & Carrier Management: Admin-only CRUD for customers and service providers (DHL, UPS, etc.)
+- Responsive UI: Mobile-first design with role-aware dashboards, tables, and forms
+- Secure Auth: JWT + HttpOnly cookies, role-based middleware (admin/cashier)
+**Frontend:**  React, Vite, TailwindCSS, React Router, Formik, React Icons
+**Backend:**  Node.js, Express, JWT, Bcrypt, Sequelize ORM, PostgreSQL
+**DevOps:**  RESTful APIs, Proxy setup (Vite → Express), Role-based routing
+
 ### 🛡️ Elite Sentry - Monitoring Platform
 **🔗 Live Demo:** [agency.pics](https://elitesentry.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/elitesentry)
 
