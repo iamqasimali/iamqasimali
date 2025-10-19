@@ -190,7 +190,7 @@ Platform designed to connect models, influencers, and creatives. Allows users to
 ---
 
 ### 📊 IntimeGDT - Data Marketplace
-**🔗 Live Demo:** [intimegdt.com](https://intimegdt.netlify.app/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
+**🔗 Live Demo:** [intimegdt.com](https://intimegdt.netlify.app/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/intimeGDT)
 
 <div align="center">
   <img src="intimeGDT.png" alt="IntimeGDT Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
@@ -206,7 +206,7 @@ Platform providing access to diverse datasets for real-time data discovery, eval
 ---
 
 ### 📦 DHL Cargo Management System – Full Logistics Platform
-**🔗 Live Demo:** (Coming Soon) | **📁 Repository:**  GitHub (replace with actual link)
+**🔗 Live Demo:** (Coming Soon) | **📁 Repository:**  [GitHub](https://github.com/iamqasimali/DHL-Cargo)
 
 <div align="center">
 <img src="dhl.png" alt="DHL Cargo Management System" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
@@ -228,7 +228,7 @@ A comprehensive cargo booking and logistics tracking platform built for freight 
 **Backend:**  Node.js, Express, JWT, Bcrypt, Sequelize ORM, PostgreSQL
 **DevOps:**  RESTful APIs, Proxy setup (Vite → Express), Role-based routing
 ### 🏋️ FitTrack – Gym & Training Attendance & Finance System
-🔗 Live Demo: (Coming Soon) | 📁 Repository: GitHub (replace with actual link)
+🔗 Live Demo: (Coming Soon) | 📁 Repository: [GitHub](https://github.com/iamqasimali/fit_track)
 
 <div align="center">
 <img src="fittrack.png" alt="FitTrack Dashboard" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
