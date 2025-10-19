@@ -227,6 +227,27 @@ A comprehensive cargo booking and logistics tracking platform built for freight 
 **Frontend:**  React, Vite, TailwindCSS, React Router, Formik, React Icons
 **Backend:**  Node.js, Express, JWT, Bcrypt, Sequelize ORM, PostgreSQL
 **DevOps:**  RESTful APIs, Proxy setup (Vite → Express), Role-based routing
+### 🏋️ FitTrack – Gym & Training Attendance & Finance System
+🔗 Live Demo: (Coming Soon) | 📁 Repository: GitHub (replace with actual link)
+
+<div align="center">
+<img src="fittrack.png" alt="FitTrack Dashboard" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
+
+A modern attendance and financial management platform built for gyms, training centers, and fitness studios. FitTrack enables staff to scan QR codes for instant attendance tracking, manage member/trainer fees, and generate detailed reports — all in one place.
+
+**🛠️ Tech Stack:** PERN Stack (PostgreSQL, Express, React, Node.js), Vite, TailwindCSS, JWT, Sequelize ORM
+
+**Key Features:**
+
+- **QR Code Attendance:** Members & trainers scan unique IDs to check in — system auto-logs time and displays user details.
+-  **Role-Based Access:** Admins manage users; Staff mark payments; Trainers view their schedules.
+-  **Financial Tracking:** Track monthly fees from members and salaries for trainers.
+- **Automated Reporting:** Generate PDF/Excel reports for attendance, revenue, and growth trends.
+Dashboard Analytics: Real-time charts for total members, active users, daily attendance, and revenue over time.
+**Frontend:** React, Vite, TailwindCSS, React Router, Formik, React Icons, Recharts
+**Backend:** Node.js, Express, JWT, Bcrypt, Sequelize ORM, PostgreSQL
+**DevOps:** RESTful APIs, Proxy setup (Vite → Express), Role-based middleware (admin, staff, trainer)
 
 ### 🛡️ Elite Sentry - Monitoring Platform
 **🔗 Live Demo:** [agency.pics](https://elitesentry.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/elitesentry)
