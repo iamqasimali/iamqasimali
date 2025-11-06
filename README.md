@@ -56,14 +56,6 @@ Includes cashier and admin portals, automated reports, and inventory alerts.
 
 ---
 
-### 🏸 Badminton Tournament Management System  
-**🔗 Live Demo:** [agency.pics](https://agency.pics)  
-**🛠️ Stack:** Next.js, React, Node.js, Express.js, AWS S3, PostgreSQL  
-
-> Multi-portal (Player, Tournament, Admin) platform for tournament scheduling, player stats, and match management using the **MERN stack**.
-
----
-
 ### 📸 Agency Pics – Creative Networking Platform  
 **🔗 Live Demo:** [agency.pics](https://agency.pics)  
 **🛠️ Stack:** Ruby on Rails, React, Stripe, Sidekiq, SendGrid, AWS S3  
