@@ -28,15 +28,139 @@
 
 <!-- About Me Section -->
 ## 👨‍💻 About Me
+# 👋 Hi, I'm Qasim Ali Zahid  
+### 🚀 Full Stack Developer | Ruby on Rails | React.js | PERN | AWS | Heroku | Generative AI  
 
-- 🔭 **Currently Working On:** Web Applications with modern tech stacks
-- 🌱 **Learning:** Backend Development (Python, Generative AI, LLM)
-- 💬 **Interested In:** Open source projects collaboration and app Security
-- 👯 **Looking To Collaborate On:** Generative AI, fintech & blockchain technology web applications
-- 💬 **Ask Me About:** Full-stack Web Applications
-- 📫 **How to reach me:** iamqasimalizahid@gmail.com
-- ⚡ **Fun fact:** The first computer "bug" was an actual real-life bug
-- 😄 **Pronouns:** He/Him
+I’m **Qasim Ali Zahid**, a **Full Stack Web Developer** with over **5 years of experience** designing, developing, and scaling production-grade web applications.  
+I specialize in **Ruby on Rails**, **React.js**, and the **PERN stack**, with expertise in **REST APIs**, **cloud deployment**, **AI integrations**, and **scalable architectures**.
+
+---
+
+## 💼 Featured Projects
+
+### 🌍 Roavi – Travel Companion Platform  
+**🔗 Live Demo:** [roavi.com](https://roavi.com)  
+**🛠️ Stack:** Ruby on Rails, React, Heroku, AWS S3, PostgreSQL, Devise, JWT, Stripe  
+**Frontend:** React.js, TailwindCSS, Chart.js, React Query, Formik  
+**Backend:** Sidekiq, SendGrid, Pundit, Active Storage  
+
+> A complete travel platform connecting travelers with local guides. Features include secure payments, JWT authentication, booking management, and real-time updates.
+
+---
+
+### 🏪 Restaurant POS System – Complete Management Solution  
+**🛠️ Stack:** React, TailwindCSS, Node.js, Express.js, PostgreSQL, JWT, Socket.io  
+
+> A powerful POS system for restaurants with **multi-portal access**, **real-time inventory**, **analytics**, and **employee management**.  
+Includes cashier and admin portals, automated reports, and inventory alerts.
+
+---
+
+### 🏸 Badminton Tournament Management System  
+**🔗 Live Demo:** [agency.pics](https://agency.pics)  
+**🛠️ Stack:** Next.js, React, Node.js, Express.js, AWS S3, PostgreSQL  
+
+> Multi-portal (Player, Tournament, Admin) platform for tournament scheduling, player stats, and match management using the **MERN stack**.
+
+---
+
+### 📸 Agency Pics – Creative Networking Platform  
+**🔗 Live Demo:** [agency.pics](https://agency.pics)  
+**🛠️ Stack:** Ruby on Rails, React, Stripe, Sidekiq, SendGrid, AWS S3  
+
+> Connects models, influencers, and creatives for collaborations.  
+Includes **Stripe payments**, **multi-tenant architecture**, and **media management** via Active Storage.
+
+---
+
+### 📊 IntimeGDT – Data Marketplace  
+**🔗 Live Demo:** [intimegdt.com](https://intimegdt.com)  
+**🛠️ Stack:** Next.js, React, Ruby on Rails, TailwindCSS, Stripe, SendGrid  
+
+> A platform for **real-time data discovery**, **dataset subscriptions**, and **AI-powered analytics** with secure payments and user dashboards.
+
+---
+
+### 📦 DHL Cargo Management System – Logistics Platform  
+**🛠️ Stack:** PERN Stack (PostgreSQL, Express, React, Node.js), Vite, TailwindCSS, JWT  
+
+> End-to-end logistics management system for freight forwarders.  
+Includes shipment tracking, carrier integration (DHL, UPS, FedEx), and profit calculation dashboards.
+
+---
+
+### 🏋️ FitTrack – Gym Attendance & Finance System  
+**🛠️ Stack:** PERN Stack (PostgreSQL, Express, React, Node.js), Vite, TailwindCSS  
+
+> Enables gyms to manage attendance via **QR codes**, handle **trainer/member fees**, and generate financial reports.  
+Includes dashboards, PDF exports, and real-time analytics.
+
+---
+
+### 🛡️ Elite Sentry – Monitoring Platform  
+**🛠️ Stack:** Hugo, AlpineJS, TailwindCSS, Netlify  
+
+> Real-time infrastructure monitoring platform with customizable dashboards, alerts, and performance insights.
+
+---
+
+### 💰 BlueBolivia – Currency Tracking Platform  
+**🔗 Live Demo:** [bluebolivia.com](https://bluebolivia.com)  
+**🛠️ Stack:** MERN Stack, TailwindCSS, Binance APIs, Cron Jobs  
+
+> Currency tracking and conversion system for the Bolivian economy with **real-time exchange rate updates** and admin dashboards.
+
+---
+
+### 🚗 CarShare – Car Rental Platform  
+**🛠️ Stack:** Next.js, TypeScript, TailwindCSS, Ruby on Rails, Stripe  
+
+> Enables short-term car rentals by connecting car owners and renters.  
+Supports **secure Stripe payments**, **real-time availability**, and **automated booking workflows**.
+
+---
+
+### 🚘 Diamond Chauffeur Limousine  
+**🛠️ Stack:** HTML, CSS, JavaScript  
+
+> A luxury chauffeur service platform offering premium transport experiences with responsive design and booking functionality.
+
+---
+
+## 🧠 Technical Skills
+
+**Languages & Frameworks:**  
+Ruby on Rails, React.js, Next.js, Node.js, Express.js, JavaScript (ES6+), TypeScript, TailwindCSS, HTML5, CSS3, SCSS  
+
+**Backend & APIs:**  
+RESTful APIs, GraphQL, Sidekiq, Pundit, Devise, Active Storage, WebSockets, JWT Auth  
+
+**Databases:**  
+PostgreSQL, MySQL, MongoDB, Redis  
+
+**Cloud & DevOps:**  
+AWS (EC2, S3, RDS), Heroku, Render, Railway, Docker, CI/CD, Nginx, Capistrano  
+
+**Integrations:**  
+Stripe, SendGrid, Twilio, PayPal, Cron Jobs, Google APIs  
+
+**AI & Emerging Tech:**  
+OpenAI API, LangChain, Generative AI tools for automation & LLM-powered assistants  
+
+---
+
+## 🤝 Let's Connect
+
+📞 **WhatsApp / Call:** [+92 303 5570992](https://wa.me/923035570992)  
+📧 **Email:** [iamqasimalizahid@gmail.com](mailto:iamqasimalizahid@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/qasim-ali-zahid](https://www.linkedin.com/in/qasim-ali-zahid/)  
+🌐 **GitHub:** [github.com/iamqasimali](https://github.com/iamqasimali)  
+💻 **Fiverr:** [fiverr.com/qasimalizahid](https://www.fiverr.com/qasimalizahid)
+
+---
+
+⭐ _I’m passionate about building impactful digital products and helping businesses scale. Whether you need an MVP, a full SaaS platform, or AI integration — I’m your dependable full-stack partner from concept to deployment._
+
 
 <br/>
 
