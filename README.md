@@ -6,7 +6,6 @@
 <h2 style="color:#666;">Full Stack Developer | Ruby on Rails + React Specialist</h2>
 
 
-
 <!-- Badges -->
 <div>
   <a href="https://www.linkedin.com/in/qasim-zahid-a69326a7/">
