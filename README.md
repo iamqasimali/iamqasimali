@@ -14,7 +14,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=iamqasimali&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
-
 <br/>
 
 <!-- Typing Animation -->
