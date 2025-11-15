@@ -16,6 +16,7 @@
 </div>
 <br/>
 
+
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2E86AB&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Ruby+on+Rails+%2B+React+Expert;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
