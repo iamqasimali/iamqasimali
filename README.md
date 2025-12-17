@@ -27,7 +27,6 @@
 
 I’m **Qasim Ali Zahid**, a **Full Stack Web Developer** with over **5 years of experience** designing, developing, and scaling production-grade web applications.  
 I specialize in **Ruby on Rails**, **React.js**, and the **PERN stack**, with expertise in **REST APIs**, **cloud deployment**, **AI integrations**, and **scalable architectures**.
-
 ---
 ## 🧠 Technical Skills
 
