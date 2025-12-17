@@ -20,7 +20,6 @@
 </div>
 <br/>
 <hr>
-
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 # 👋 Hi, I'm Qasim Ali Zahid  
