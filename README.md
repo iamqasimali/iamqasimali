@@ -23,44 +23,80 @@
 <hr>
 <!-- About Me Section -->
 ## 👨‍💻 About Me
-# 👋 Hi, I'm Qasim Ali Zahid  
-### 🚀 Full Stack Developer | Ruby on Rails | React.js | PERN | AWS | Heroku | Generative AI  
 
-I’m **Qasim Ali Zahid**, a **Full Stack Web Developer** with over **5 years of experience** designing, developing, and scaling production-grade web applications.  
-I specialize in **Ruby on Rails**, **React.js**, and the **PERN stack**, with expertise in **REST APIs**, **cloud deployment**, **AI integrations**, and **scalable architectures**.
+<div align="center">
+  <img src="https://img.shields.io/badge/5%2B%20Years-Experience-blue?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-success?style=for-the-badge" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" alt="Open to Work"/>
+</div>
+
+<br/>
+
+I'm a **Full Stack Web Developer** passionate about building **production-grade applications** that scale. I transform ideas into robust digital solutions using modern technologies.
+
+<table>
+<tr>
+<td width="50%">
+
+### What I Do
+
+- Build scalable web apps with **Ruby on Rails** & **React.js**
+- Design and implement **RESTful APIs** & **GraphQL**
+- Deploy to **AWS**, **Heroku**, and containerized environments
+- Integrate **AI/LLM solutions** for automation
+- Develop **PERN stack** applications end-to-end
+
+</td>
+<td width="50%">
+
+### Quick Facts
+
+- Based in Pakistan
+- Available for freelance & full-time roles
+- Love solving complex problems
+- Open source enthusiast
+- Always learning new technologies
+
+</td>
+</tr>
+</table>
+
 ---
+
 ## 🧠 Technical Skills
-**Languages & Frameworks:**  
-Ruby on Rails, React.js, Next.js, Node.js, Express.js, JavaScript (ES6+), TypeScript, TailwindCSS, HTML5, CSS3, SCSS  
 
-**Backend & APIs:**  
-RESTful APIs, GraphQL, Sidekiq, Pundit, Devise, Active Storage, WebSockets, JWT Auth  
+<div align="center">
 
-**Databases:**  
-PostgreSQL, MySQL, MongoDB, Redis  
+| Category | Technologies |
+|:--------:|:-------------|
+| **Languages** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) |
+| **Backend** | ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **AI/ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 
-**Cloud & DevOps:**  
-AWS (EC2, S3, RDS), Heroku, Render, Railway, Docker, CI/CD, Nginx, Capistrano  
-
-**Integrations:**  
-Stripe, SendGrid, Twilio, PayPal, Cron Jobs, Google APIs  
-
-**AI & Emerging Tech:**  
-OpenAI API, LangChain, Generative AI tools for automation & LLM-powered assistants  
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-📞 **WhatsApp / Call:** [+92 303 5570992](https://wa.me/923035570992)  
-📧 **Email:** [iamqasimalizahid@gmail.com](mailto:iamqasimalizahid@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/qasim-ali-zahid](https://www.linkedin.com/in/qasim-ali-zahid/)  
-🌐 **GitHub:** [github.com/iamqasimali](https://github.com/iamqasimali)  
-💻 **Fiverr:** [fiverr.com/qasimalizahid](https://www.fiverr.com/qasimalizahid)
+<div align="center">
 
----
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923035570992)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamqasimalizahid@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasim-ali-zahid/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamqasimali)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/qasimalizahid)
 
-⭐ _I’m passionate about building impactful digital products and helping businesses scale. Whether you need an MVP, a full SaaS platform, or AI integration — I’m your dependable full-stack partner from concept to deployment._
+</div>
+
+<br/>
+
+<div align="center">
+  <i>I'm passionate about building impactful digital products and helping businesses scale.<br/>Whether you need an MVP, a full SaaS platform, or AI integration — let's build something amazing together!</i>
+</div>
 
 
 <br/>
