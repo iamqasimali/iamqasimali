@@ -213,6 +213,40 @@ Multi-tenant healthcare platform built to support multiple clinics and domains w
 
 ---
 
+## 🤖 AI & Automation Projects
+
+### 🧠 RAG-Based Chatbots (Multiple Domains)
+**🔗 Live Demo:** (Private) | **📁 Repository:** (Private)
+
+Designed and developed Retrieval-Augmented Generation (RAG) chatbots with context-aware responses powered by vector databases and embeddings, reducing manual workload by automating support and inquiry handling.
+
+**Domains & Use Cases:**
+- **University admissions & student queries:** admission guidance and FAQs
+- **Paint store:** product inquiries, recommendations, quotations, scheduling, and order management
+
+**Core Capabilities:**
+- Context-aware responses using **vector databases** + **embeddings**
+- Automated **customer support**, **lead generation**, and inquiry triage
+- Built flows for **admission guidance**, **product recommendations**, **quotation generation**, and **appointment scheduling**
+
+---
+
+### 💬 AI Sales Agent (Ruby on Rails)
+**🔗 Live Demo:** (Private) | **📁 Repository:** (Private)
+
+Built an AI-powered sales agent inside a Ruby on Rails application to automate lead and order workflows while integrating with backend systems for real-time decisions and responses.
+
+**Automation:**
+- Lead qualification
+- Customer interaction
+- Order-taking workflows
+
+**Architecture:**
+- Scalable design combining **Rails APIs** + external **AI services**
+- Real-time decision making with tight backend integration
+
+---
+
 ### 🏪 Restaurant POS System - Complete Management Solution
 **🔗 Live Demo:** [POS Demo](https://shinwariderapos.netlify.app/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/restaurant-pos)
 
