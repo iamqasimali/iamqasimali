@@ -22,6 +22,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamqasimali/iamqasimali/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamqasimali/iamqasimali/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iamqasimali/iamqasimali/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
 <!-- About Me Section -->
 ## 👨 About Me
 
@@ -157,6 +165,10 @@ I'm a **Full Stack Web Developer** passionate about building **production-grade 
 </div>
 
 <br/>
+
+###
+
+<img src="https://raw.githubusercontent.com/iamqasimali/iamqasimali/output/snake.svg" alt="Snake animation" />
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics
@@ -478,5 +490,11 @@ A full-featured B2B distribution management platform for a pet-product distribut
 Made with ❤️ and 💻 by **Qasim Ali Zahid**
 
 <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="GitHub Mona" width="100" height="100">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31sh7fuxoetri25nu2juvnwcrcgq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sh7fuxoetri25nu2juvnwcrcgq&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 </div>
