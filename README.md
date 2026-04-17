@@ -215,7 +215,11 @@ Multi-tenant healthcare platform built to support multiple clinics and domains w
 ## 🤖 AI & Automation Projects
 
 ### 🧠 RAG-Based Chatbots (Multiple Domains)
-**🔗 Live Demo:** (Private) | **📁 Repository:** (Private)
+**🔗 Live Demo:** [Demo](https://github.com/iamqasimali/Yuki-Assistant) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/Yuki-Assistant)
+
+<div align="center">
+  <img src="yuki.png" alt="Yuki Chatbot" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
 
 Designed and developed Retrieval-Augmented Generation (RAG) chatbots with context-aware responses powered by vector databases and embeddings, reducing manual workload by automating support and inquiry handling.
 
@@ -231,7 +235,7 @@ Designed and developed Retrieval-Augmented Generation (RAG) chatbots with contex
 ---
 
 ### 💬 AI Sales Agent (Ruby on Rails)
-**🔗 Live Demo:** (Private) | **📁 Repository:** (Private)
+**🔗 Live Demo:** (Private) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/Sales-Agent)
 
 Built an AI-powered sales agent inside a Ruby on Rails application to automate lead and order workflows while integrating with backend systems for real-time decisions and responses.
 
@@ -320,10 +324,10 @@ Platform providing access to diverse datasets for real-time data discovery, eval
 ---
 
 ### 📦 DHL Cargo Management System – Full Logistics Platform
-**🔗 Live Demo:** (Coming Soon) | **📁 Repository:**  [GitHub](https://github.com/iamqasimali/DHL-Cargo)
+**🔗 Live Demo:** [Live](https://ulsxpress.com) | **📁 Repository:**  [GitHub](https://github.com/iamqasimali/DHL-Cargo)
 
 <div align="center">
-<img src="dhl.png" alt="DHL Cargo Management System" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+<img src="ulsexpress.png" alt="DHL Cargo Management System" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 A comprehensive cargo booking and logistics tracking platform built for freight forwarders and shipping agents. The system enables cashiers to manage shipments, track customer payments, and coordinate with carriers like DHL, UPS, and FedEx — while admins oversee operations, users, and financials.
@@ -425,6 +429,34 @@ Luxury transportation service website providing premium chauffeur services with 
 **🛠️ Tech Stack:** HTML, CSS, JavaScript
 
 **Features:** Responsive design, Booking system, Service showcase, Contact management
+
+---
+
+### 🐕 ColdDog Distribution
+**🔗 Live Demo:** [colddog-distribution-85e6a8d0c353.herokuapp.com](https://colddog-distribution-85e6a8d0c353.herokuapp.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/ColdDog-Distribution)
+
+<div align="center">
+  <img src="cold-dog.png" alt="ColdDog Distribution" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
+
+A full-featured B2B distribution management platform for a pet-product distributor. Manages stores, vendors, inventory, orders, invoicing, delivery routes, and vendor payouts — all from a single internal dashboard.
+
+**🛠️ Tech Stack:** Ruby on Rails 7.1, PostgreSQL, Tailwind CSS v4, Sidekiq, Redis, Stripe, Action Cable
+
+**Key Features:**
+- **Order Lifecycle:** Full workflow from draft → confirmed → picking → dispatched → delivered
+- **Role-Based Access:** Admin, Manager, Sales Rep, Driver — each with scoped dashboards and navigation
+- **Invoicing & Payments:** Auto-generated invoices from confirmed orders with Stripe integration
+- **Inventory Management:** Stock tracking with low stock alerts and vendor product approvals
+- **Delivery Runs:** Driver route management with per-role pick list and delivery views
+- **Vendor Payouts:** Automated weekly payout calculations with commission deduction
+- **3PL Integration:** Extensiv (3PL Central) warehouse sync on order confirmation
+- **Background Jobs:** Order reminders, daily pick list emails, payout calculations via Sidekiq
+
+**Backend:** Ruby on Rails 7.1, Devise, Pundit, Ransack, Kaminari, Sidekiq, Stripe, Action Cable  
+**Frontend:** Tailwind CSS v4, ERB templates  
+**Database:** PostgreSQL (monetary values stored as integer cents)  
+**Testing:** RSpec + FactoryBot
 
 <br/>
 
