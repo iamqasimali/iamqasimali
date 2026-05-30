@@ -1,6 +1,5 @@
 <div align="center">
 <!-- Header Section -->
-  
 <img src="Qasim-Ali-Zahid.png" style="width:100%; max-width:800px; height:auto; border-radius:12px;" />
 <br/>
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/></h1>
@@ -464,7 +463,6 @@ A full-featured B2B distribution management platform for a pet-product distribut
 
 <!-- Fun Section -->
 ## 😄 Fun Corner
-
 <div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
@@ -484,5 +482,4 @@ Made with ❤️ and 💻 by **Qasim Ali Zahid**
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sh7fuxoetri25nu2juvnwcrcgq&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
 </div>
