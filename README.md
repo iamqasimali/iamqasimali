@@ -179,7 +179,7 @@ I'm a **Full Stack Web Developer** passionate about building **production-grade 
 **🔗 Live Demo:** [roavi.com](https://roavi.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
 <div align="center">
-  <img src="roavi.png" alt="Roavi Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="Roavi.png" alt="Roavi Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 A comprehensive platform connecting travelers with local companions and guides. Built using React for a dynamic front-end experience and Ruby on Rails for robust server-side logic.
@@ -382,52 +382,6 @@ Web-based monitoring and observability platform providing real-time insights int
 
 **Features:** Real-time monitoring, Customizable dashboards, Performance metrics, Error tracking
 
----
-
-### 💰 BlueBolivia - Currency Tracking Platform
-**🔗 Live Demo:** [bluebolivia.com](https://bluebolivia.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/blue_bolivia)
-
-<div align="center">
-  <img src="bluebolivia.png" alt="BlueBolivia Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
-</div>
-
-Intuitive platform for tracking and converting between multiple currencies with focus on Bolivian economy. Features detailed charting and admin capabilities.
-
-**🛠️ Tech Stack:** MERN Stack, Tailwind CSS, Binance APIs, Currency Rate APIs
-
-**Frontend:** React, TailwindCSS, Chart.js, Axios, React Query  
-**Backend:** Node.js, Express.js, JWT, Cron jobs, Multiple API integrations
-
----
-
-### 🚗 CarShare - Car Rental Platform
-**🔗 Live Demo:** [carshare.com](https://www.carshare.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/carshare)
-
-<div align="center">
-  <img src="carshare.png" alt="CarShare Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
-</div>
-
-Modern car sharing platform enabling short-term car rentals by the hour. Connects car owners with renters through a seamless digital experience.
-
-**🛠️ Tech Stack:** Next.js, React, TypeScript, TailwindCSS, Ruby on Rails, Stripe
-
-**Frontend:** Next.js, TypeScript, TailwindCSS, React Query, Formik  
-**Backend:** Ruby on Rails, Stripe, Devise, AWS S3, SendGrid
-
----
-
-### 🚘 Diamond Chauffeur Limousine
-**🔗 Live Demo:** [Visit Site](https://diamondchauffeurtourism.com) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/dcl)
-
-<div align="center">
-  <img src="2.png" alt="Diamond Chauffeur Limousine" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
-</div>
-
-Luxury transportation service website providing premium chauffeur services with elegant design and seamless user experience.
-
-**🛠️ Tech Stack:** HTML, CSS, JavaScript
-
-**Features:** Responsive design, Booking system, Service showcase, Contact management
 
 ---
 
@@ -456,6 +410,23 @@ A full-featured B2B distribution management platform for a pet-product distribut
 **Frontend:** Tailwind CSS v4, ERB templates  
 **Database:** PostgreSQL (monetary values stored as integer cents)  
 **Testing:** RSpec + FactoryBot
+
+---
+
+### 💰 BlueBolivia - Currency Tracking Platform
+**🔗 Live Demo:** [bluebolivia.com](https://bluebolivia.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/blue_bolivia)
+
+<div align="center">
+  <img src="bluebolivia.png" alt="BlueBolivia Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
+
+Intuitive platform for tracking and converting between multiple currencies with focus on Bolivian economy. Features detailed charting and admin capabilities.
+
+**🛠️ Tech Stack:** MERN Stack, Tailwind CSS, Binance APIs, Currency Rate APIs
+
+**Frontend:** React, TailwindCSS, Chart.js, Axios, React Query  
+**Backend:** Node.js, Express.js, JWT, Cron jobs, Multiple API integrations
+
 
 <br/>
 
