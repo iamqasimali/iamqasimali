@@ -175,11 +175,36 @@ I'm a **Full Stack Web Developer** passionate about building **production-grade 
 <!-- Projects Section -->
 ## 💼 Featured Projects
 
+### 🛡️ Scandinavian Dev - Security Consultancy Website
+**🔗 Live Demo:** [scandinavian.dev](https://scandinavian.dev) | **📁 Repository:** [GitHub](https://github.com/skjohansen/scandinaviandev-web/tree/redesign)
+
+<div align="center">
+  <img src="banners/scandinavian-dev.png" alt="Scandinavian Dev Website" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+</div>
+
+Full redesign of the website for Scandinavian Dev, a Nordic security consultancy that upskills engineering teams so security is built in from day one. A fast, mobile-first static site with no JavaScript framework, replacing the old Danish/English/Swedish site with a new English design.
+
+**Highlights:**
+- New homepage, offerings overview ("Five offerings, one path") and **five offering pages from a single template**
+- Content-driven: offerings are Markdown files with front matter, so new ones appear on the homepage, overview and footer automatically
+- **Calendly booking** wired into every call-to-action from one config value
+- **Inline SVG illustrations** and a vector shield logo, favicons and 1200×630 share thumbnail
+- SEO tags, `sitemap.xml`, `robots.txt`, 404 page and **redirects from all old DA/EN/SV URLs**
+- UI text in i18n files, ready for Danish and Swedish
+- Dev Container for one-click local setup and a Docker + Nginx production build
+
+**🛠️ Tech Stack:** Jekyll 4.4, Ruby 3.2, Liquid, HTML5, CSS3, Vanilla JavaScript, GitHub Pages, Docker, Nginx
+
+**Frontend:** Semantic HTML, plain mobile-first CSS (design tokens, no Sass), inline SVG, vanilla JS mobile menu  
+**Build & Hosting:** Jekyll, jekyll-seo-tag, jekyll-sitemap, jekyll-redirect-from, GitHub Pages (custom domain), Docker multi-stage build, VS Code Dev Container
+
+---
+
 ### 🚀 Roavi - Travel Companion Platform
 **🔗 Live Demo:** [roavi.com](https://roavi.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
 <div align="center">
-  <img src="Roavi.png" alt="Roavi Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="banners/roavi.png" alt="Roavi Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 A comprehensive platform connecting travelers with local companions and guides. Built using React for a dynamic front-end experience and Ruby on Rails for robust server-side logic.
@@ -195,7 +220,7 @@ A comprehensive platform connecting travelers with local companions and guides. 
 **🔗 Live Demo:** (Private) | **📁 Repository:** (Private)
 
 <div align="center">
-  <img src="eduhealth.png" alt="EduHealth Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="banners/eduhealth.png" alt="EduHealth Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 Multi-tenant healthcare platform built to support multiple clinics and domains with strong focus on patient safety, medical data integrity, and scalable workflows for doctors and staff.
@@ -217,7 +242,7 @@ Multi-tenant healthcare platform built to support multiple clinics and domains w
 **🔗 Live Demo:** [Demo](https://github.com/iamqasimali/Yuki-Assistant) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/Yuki-Assistant)
 
 <div align="center">
-  <img src="yuki.png" alt="Yuki Chatbot" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="banners/yuki.png" alt="Yuki Chatbot" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 Designed and developed Retrieval-Augmented Generation (RAG) chatbots with context-aware responses powered by vector databases and embeddings, reducing manual workload by automating support and inquiry handling.
@@ -253,7 +278,7 @@ Built an AI-powered sales agent inside a Ruby on Rails application to automate l
 **🔗 Live Demo:** [POS Demo](https://shinwariderapos.netlify.app/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/restaurant-pos)
 
 <div align="center">
-  <img src="pos-system.png" alt="Restaurant POS System" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="banners/pos-system.png" alt="Restaurant POS System" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 A comprehensive Point of Sale system designed for modern restaurants, featuring multi-portal access, real-time inventory management, and detailed analytics. Streamlines restaurant operations from order taking to financial reporting.
@@ -278,7 +303,7 @@ A comprehensive Point of Sale system designed for modern restaurants, featuring 
 **🔗 Live Demo:** [agency.pics](https://www.agency.pics/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
 <div align="center">
-  <img src="badminton.png" alt="Badminton Tournament System" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="banners/badminton.png" alt="Badminton Tournament System" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 Comprehensive tournament organization system with three distinct portals: Player, Tournament Management, and Admin. Built using the MERN stack.
@@ -294,7 +319,7 @@ Comprehensive tournament organization system with three distinct portals: Player
 **🔗 Live Demo:** [agency.pics](https://www.agency.pics/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/agency_pics)
 
 <div align="center">
-  <img src="agencyPic.png" alt="Agency Pics Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="banners/agency-pics.png" alt="Agency Pics Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 Platform designed to connect models, influencers, and creatives. Allows users to showcase portfolios and network with industry professionals.
@@ -310,7 +335,7 @@ Platform designed to connect models, influencers, and creatives. Allows users to
 **🔗 Live Demo:** [intimegdt.com](https://intimegdt.netlify.app/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/intimeGDT)
 
 <div align="center">
-  <img src="intimeGDT.png" alt="IntimeGDT Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="banners/intimegdt.png" alt="IntimeGDT Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 Platform providing access to diverse datasets for real-time data discovery, evaluation, and integration across various industries and domains.
@@ -326,7 +351,7 @@ Platform providing access to diverse datasets for real-time data discovery, eval
 **🔗 Live Demo:** [Live](https://ulsxpress.com) | **📁 Repository:**  [GitHub](https://github.com/iamqasimali/DHL-Cargo)
 
 <div align="center">
-<img src="ulsexpress.png" alt="DHL Cargo Management System" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+<img src="banners/ulsexpress.png" alt="DHL Cargo Management System" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 A comprehensive cargo booking and logistics tracking platform built for freight forwarders and shipping agents. The system enables cashiers to manage shipments, track customer payments, and coordinate with carriers like DHL, UPS, and FedEx — while admins oversee operations, users, and financials.
@@ -351,7 +376,7 @@ A comprehensive cargo booking and logistics tracking platform built for freight 
 **🔗 Live Demo:** (Coming Soon) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/fit_track)
 
 <div align="center">
-<img src="fittrack.png" alt="FitTrack Dashboard" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+<img src="banners/fittrack.png" alt="FitTrack Dashboard" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 A modern attendance and financial management platform built for gyms, training centers, and fitness studios. FitTrack enables staff to scan QR codes for instant attendance tracking, manage member/trainer fees, and generate detailed reports — all in one place.
@@ -373,7 +398,7 @@ A modern attendance and financial management platform built for gyms, training c
 **🔗 Live Demo:** [elitesentry.com](https://elitesentry.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/elitesentry)
 
 <div align="center">
-  <img src="Elite-Sentry.png" alt="Elite Sentry Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="banners/elite-sentry.png" alt="Elite Sentry Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 Web-based monitoring and observability platform providing real-time insights into IT infrastructure, applications, and systems.
@@ -389,7 +414,7 @@ Web-based monitoring and observability platform providing real-time insights int
 **🔗 Live Demo:** [colddog-distribution-85e6a8d0c353.herokuapp.com](https://colddog-distribution-85e6a8d0c353.herokuapp.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/ColdDog-Distribution)
 
 <div align="center">
-  <img src="cold-dog.png" alt="ColdDog Distribution" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="banners/cold-dog.png" alt="ColdDog Distribution" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 A full-featured B2B distribution management platform for a pet-product distributor. Manages stores, vendors, inventory, orders, invoicing, delivery routes, and vendor payouts — all from a single internal dashboard.
@@ -417,7 +442,7 @@ A full-featured B2B distribution management platform for a pet-product distribut
 **🔗 Live Demo:** [bluebolivia.com](https://bluebolivia.com/) | **📁 Repository:** [GitHub](https://github.com/iamqasimali/blue_bolivia)
 
 <div align="center">
-  <img src="bluebolivia.png" alt="BlueBolivia Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
+  <img src="banners/bluebolivia.png" alt="BlueBolivia Platform" style="width:100%; max-width:600px; height:auto; border-radius:8px; margin:10px 0;" />
 </div>
 
 Intuitive platform for tracking and converting between multiple currencies with focus on Bolivian economy. Features detailed charting and admin capabilities.
